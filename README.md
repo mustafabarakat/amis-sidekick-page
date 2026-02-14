@@ -75,7 +75,7 @@ These permissions are used exclusively to enable workflow automation features an
 
 ## Data Security
 
-Because the Extension operates locally and does not transmit organisational data externally, no user, financial, or workflow data is stored on external servers.  
+Since the Extension operates locally and does not transmit organisational data externally, no user, financial, or workflow data is stored on external servers.  
 All ServiceNow and FPIM data processed by the Extension remains within the user’s browser and organisational systems.
 
 ---
